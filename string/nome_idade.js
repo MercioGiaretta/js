@@ -1,3 +1,7 @@
+//Escreva um código que contenha as variáveis de nome e idade
+//E então imprima-os no console, em uma única linha
+//Usando oss template literas
+
 let nome = "Márcio"
 let nome2 = "Giaretta"
 
